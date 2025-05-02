@@ -15,3 +15,8 @@ A modern, responsive website for Mohamed Gym featuring fitness classes, schedule
 Code
 - i used AI to generate some code for the cards and footer to make it better and Responsive
 - i watched youtube videos explaining navbar and helped me to create it and with some help using AI to make it better.
+
+Resources
+-i watched many videos from different playlists in thuis youtube channel which helped me to create navbar and many other things https://www.youtube.com/@ElzeroWebSchool
+-i used fontawesome.com for icons
+-i used Deepseek to generate some AI codes
